@@ -1,0 +1,30 @@
+<DOCTYPE!html>
+    <html>
+    <head>
+        <title>全局索引</title>
+        <meta charset="utf-8">
+        </head>
+        <body>
+        <h1>全局索引</h1>
+        <h2>您可以在这里选择您需要的帮助文章</h2>
+        <a href="ZBT.html">
+            <input type="button" value="我的世界白嫖方法" >
+            </a>
+            <a href="ZBT2.html">
+            <input type="button" value="HMCL模组管理">
+            </a>
+                <a href="%E7%B4%A2%E5%BC%952.html">
+                <input type="button" value="我的世界的常用指令">
+            </a>
+            <a href="Hello%20Minecraft!%20Launcher.html">
+            <input type="button" value="我的世界HMCL启动器官网">
+            </a>
+            <a href="%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99%20_%20Minecraft.html">
+            <input type="button" value="我的世界官网">
+            </a>
+            <a href="https://share.weiyun.com/w9nlsG0p">
+            <input type="button" value="白嫖网址">
+            </a>
+            <h2>欢迎使用我的世界zbt新手友好网站，作者邮箱：ZCY11233833@163.com</h2>
+        </body>
+    </html>
